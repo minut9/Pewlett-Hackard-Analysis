@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-This purpose of this project was for Bobby and I to determine the number of retiring employess per their title; as well as identify employees who are eligible to participate in a mentorship program. This project supports the manager at Pewlett Hackard to prepare for current employees facing retirement.
+This purpose of this project was for my team and I to determine the number of retiring employess per their title; as well as identify employees who are eligible to participate in a mentorship program. This project supports the manager at Pewlett Hackard to prepare for current employees facing retirement.
 
 # Results
 
