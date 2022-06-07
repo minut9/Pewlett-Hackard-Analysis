@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-This purpose of this project was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. This project supports the manager at Pewlett Hackard to prepare for current employees facing retirement.
+This purpose of this project was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program at Pewlett-Hackard. The process- Analyize data, Clean data, write query using SQL, import data, join tables/filter data, export new data, analysis to find problem solution. 
 
 ## Deliverables
 * 1st, to find the number of employees retiring by title
