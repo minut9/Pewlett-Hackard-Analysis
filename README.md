@@ -25,7 +25,7 @@ This purpose of this project was to determine the number of retiring employees p
 
 ![image](https://user-images.githubusercontent.com/86068655/145681122-ae97b7a1-59aa-4cc5-b5e2-d11ce99f0271.png)
 
-We joined the Employee and Titles tables, using folks who was born in 1965, as well as their name, employee number, and title and created and eligibility       mentorship table
+We joined the Employee and Titles tables, using folks who was born in 1965, as well as their name, employee number, and title and created and eligibility       mentorship table.
 
 
 # Summary
