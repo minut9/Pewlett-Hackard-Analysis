@@ -3,9 +3,9 @@
 This purpose of this project was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. This project supports the manager at Pewlett Hackard to prepare for current employees facing retirement.
 
 ## Deliverables
-1st, to find the number of employees retiring by title
-2nd, find which employees are eligible for the mentorship program
-3rd, Analysis
+* 1st, to find the number of employees retiring by title
+* 2nd, find which employees are eligible for the mentorship program
+* 3rd, Analysis
 
 # Results
 
